@@ -49,7 +49,6 @@ trait GameDef {
    * This value is left abstract.
    */
   val goal: Pos
-  vtbn ncxc∑áfguA BHJM,.
 
   /**
    * The terrain is represented as a function from positions to
